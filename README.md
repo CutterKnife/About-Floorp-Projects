@@ -1,6 +1,6 @@
 ## 👋 Floorp プロジェクトのリポジトリへようこそ！
 
-[https://github.com/Floorp-Projects/.github/blob/main/profile/README.md](English translation)
+[English translation](https://github.com/Floorp-Projects/.github/blob/main/profile/README.md")
 
 ![header](https://raw.githubusercontent.com/Floorp-Projects/.github/main/profile/header.png)
 
@@ -16,28 +16,28 @@ Firefox をベースとして、高度なカスタマイズ性と多数の実験
 
 開発中のプロジェクト:
 
-- [https://floorp.app](**Floorp ブラウザー**] - ユーザーを第一に考え、プライバシーを尊重する、Firefox ベースのブラウザーです。皆様からいただくフィードバックは次のアップデートに活かされます。
+- [**Floorp ブラウザー**](https://floorp.app) - ユーザーを第一に考え、プライバシーを尊重する、Firefox ベースのブラウザーです。皆様からいただくフィードバックは次のアップデートに活かされます。
 
 ### ☕ Floorpプロジェクトに貢献する
 
 より良いウェブの構築を目指しましょう。貢献する方法は方法はたくさんあります:
 
-- 最も簡単な方法は、Floorp ブラウザーをダウンロードしてご利用いただくことです。 Floorp ブラウザーのダウンロードは[https://floorp.app](**こちら**)
+- 最も簡単な方法は、Floorp ブラウザーをダウンロードしてご利用いただくことです。 Floorp ブラウザーのダウンロードは[**こちら**](https://floorp.app)
 
-- 寄付も可能です！健全なウェブの世界を作りましょう！ [https://github.com/sponsors/surapunoyousei](**GitHub Sponsors**) をご確認ください。
+- 寄付も可能です！健全なウェブの世界を作りましょう！ [**GitHub Sponsors**](https://github.com/sponsors/surapunoyousei) をご確認ください。
 
-詳しくは[https://docs.floorp.app/ja/docs/other/join](**こちら**)のドキュメントをご確認ください。
+詳しくは[**こちら**](https://docs.floorp.app/ja/docs/other/join)のドキュメントをご確認ください。
 
 ### 👐 各種リンク
 
 公式サイトとソースコード:
 
-💿 [https://floorp.app](**公式サイト**)
+💿 [**公式サイト**](https://floorp.app)
 
-💻 [https://github.com/Floorp-Projects/Floorp](**ブラウザーのソースコード**)
+💻 [**ブラウザーのソースコード**](https://github.com/Floorp-Projects/Floorp)
 
-📘 [https://blog.floorp.app](**リリースノートとブログ**)
+📘 [**リリースノートとブログ**](https://blog.floorp.app)
 
-💬 [https://discord.floorp.app](**公式 Discord コミュニティ**)
+💬 [**公式 Discord コミュニティ**](https://discord.floorp.app)
 
-💬 [https://docs.floorp.app](**ドキュメント**)
+💬 [**ドキュメント**](https://docs.floorp.app)
