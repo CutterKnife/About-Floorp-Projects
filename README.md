@@ -24,7 +24,7 @@ Firefox をベースとして、高度なカスタマイズ性と多数の実験
 
 - 最も簡単な方法は、Floorp ブラウザーをダウンロードしてご利用いただくことです。 Floorp ブラウザーのダウンロードは[**こちら**](https://floorp.app)
 
-- 寄付も可能です！健全なウェブの世界を作りましょう！ [**GitHub Sponsors**](https://github.com/sponsors/surapunoyousei) をご確認ください。
+- 寄付も可能です！健全なウェブの世界を作りましょう！ [**GitHub Sponsors**](https://github.com/sponsors/Ryosuke-Asano) をご確認ください。
 
 詳しくは[**こちら**](https://docs.floorp.app/ja/docs/other/join)のドキュメントをご確認ください。
 
