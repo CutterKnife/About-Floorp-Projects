@@ -26,7 +26,7 @@ Firefox をベースとして、高度なカスタマイズ性と多数の実験
 
 - 寄付も可能です！健全なウェブの世界を作りましょう！ [**GitHub Sponsors**](https://github.com/sponsors/Ryosuke-Asano) をご確認ください。
 
-詳しくは[**こちら**](https://docs.floorp.app/ja/docs/other/join)のドキュメントをご確認ください。
+詳しくは[**こちら**](https://docs.floorp.app/ja/docs/contributing/floorp)のドキュメントをご確認ください。
 
 ### 👐 各種リンク
 
